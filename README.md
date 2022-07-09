@@ -1,4 +1,4 @@
-# How to handle JavaScript exception for automation test in Java-TestNG on LambdaTest
+# How to capture JavaScript exception for automation test in Java-TestNG on LambdaTest
 
 ### Environment Setup
 
